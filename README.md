@@ -17,4 +17,4 @@
 2022 - 10 시작
 |목차|완료|
 |--|--|
-|깨끗한 코드|--|
+|[1. 깨끗한 코드](https://github.com/parkyountaek/Clean-Code/blob/main/1.%20Clean%20Code/CleanCode.md)|2022.10.20|
