@@ -18,4 +18,4 @@
 |목차|완료|
 |--|--|
 |[1. 깨끗한 코드](https://github.com/parkyountaek/Clean-Code/blob/main/1.%20Clean%20Code/CleanCode.md)|2022.10.20|
-|[2. 의미있는 이름](https://github.com/parkyountaek/Clean-Code/blob/main/2.%20Meaningful%20Name/MeaningfulName.md)||
+|[2. 의미있는 이름](https://github.com/parkyountaek/Clean-Code/blob/main/2.%20Meaningful%20Name/MeaningfulName.md)|2022.11.02|
