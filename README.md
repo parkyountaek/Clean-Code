@@ -19,4 +19,4 @@
 |--|--|
 |[1. 깨끗한 코드](https://github.com/parkyountaek/Clean-Code/blob/main/1.%20Clean%20Code/CleanCode.md)|2022.10.20|
 |[2. 의미있는 이름](https://github.com/parkyountaek/Clean-Code/blob/main/2.%20Meaningful%20Name/MeaningfulName.md)|2022.11.02|
-|[3. 함수](https://github.com/parkyountaek/Clean-Code/blob/main/3.%20Function/function.md)|2022.11.11|
+|[3. 함수](https://github.com/parkyountaek/Clean-Code/blob/main/3.%20Function/Function.md)|2022.11.11|
